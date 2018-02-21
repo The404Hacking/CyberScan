@@ -8,7 +8,7 @@ can analyse packets , decoding  , scanning ports, pinging and geolocation of an 
 Screenshots
 ----
 
-![Screenshot](https://github.com/The404Hacking/CyberScan/blob/master/images/demo.png)
+![Screenshot](https://github.com/The404Hacking/CyberScan/blob/master/images/Screenshot.png)
 
 Operating Systems Supported
 ---- 
