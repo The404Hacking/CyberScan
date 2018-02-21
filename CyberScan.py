@@ -13,8 +13,6 @@
 #  along with this program; if not, write to the Free Software
 #  Foundation, Inc., 51 Franklin Street, Fifth Floor Boston,
 #  MA 02110-1301, USA.
-#
-#  Author: Mohamed BEN ALI
 
 import os
 import sys
@@ -39,7 +37,12 @@ __description__ = '''\
   ___________________________________________
 
   CyberScan | v.''' + __version__ + '''
-  Author: BEN ALI Mohamed
+  Author: Sir.4m1R
+  The404Hacking
+  Digital Security ReSearch Group
+  
+  https://T.me/The404Hacking
+  https://github.com/The404Hacking/CyberScan
   ___________________________________________
 '''
 
@@ -58,13 +61,18 @@ def header():
     write(message)
 
 def usage():
-	print (''' \033[92m CyberScan v.1.1.1 http://github/medbenali/CyberScan
+	print (''' \033[92m CyberScan v.1.1.1 http://github/The404Hacking/CyberScan
 	It is the end user's responsibility to obey all applicable laws.
 	It is just for server testing script. Your ip is visible. \n
 	  ___________________________________________
 	 
  	  CyberScan | v.1.1.1   
-	  Author: BEN ALI Mohamed
+	  Author: Sir.4m1R
+	  The404Hacking
+	  Digital Security ReSearch Group
+	  
+	  https://T.me/The404Hacking
+	  https://github.com/The404Hacking/CyberScan
  	  ___________________________________________
 	
 
