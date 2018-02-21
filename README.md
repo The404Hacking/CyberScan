@@ -8,7 +8,7 @@ can analyse packets , decoding  , scanning ports, pinging and geolocation of an 
 Screenshots
 ----
 
-![Screenshot](https://github.com/medbenali/CyberScan/blob/master/images/demo.png)
+![Screenshot](https://github.com/The404Hacking/CyberScan/blob/master/images/demo.png)
 
 Operating Systems Supported
 ---- 
@@ -20,9 +20,9 @@ Operating Systems Supported
 Installation
 ----
 
-You can download CyberScan by cloning the [Git](https://github.com/medbenali/CyberScan) repository:
+You can download CyberScan by cloning the [Git](https://github.com/The404Hacking/CyberScan) repository:
 
-    git clone https://github.com/medbenali/CyberScan.git
+    git clone https://github.com/The404Hacking/CyberScan.git
     cd CyberScan/
     python CyberScan.py -v
 
@@ -31,12 +31,12 @@ CyberScan works out of the box with [Python](http://www.python.org/download/) ve
 # The CyberScan Module Usage
 
 
-[CyberScan](https://github.com/medbenali/CyberScan)  is able to send and capture packets of several protocols, forging and decoding them to be used to most network tasks such as scanning, pinging, probing, and attacks.
+[CyberScan](https://github.com/The404Hacking/CyberScan)  is able to send and capture packets of several protocols, forging and decoding them to be used to most network tasks such as scanning, pinging, probing, and attacks.
 
 Make sure you have CyberScan in your machine:
 
 ```sh
-$ git clone https://github.com/medbenali/CyberScan.git
+$ git clone https://github.com/The404Hacking/CyberScan.git
 ```
 
 You can test the installation firing up CyberScan iteratively. These are some useful functions:
@@ -261,39 +261,19 @@ WARNING: No route found for IPv6 destination :: (no default route?)
 0020   00 2F 00 00                                        ./..
 ```
 
-Contact
-----
+## Download and Clone
+> Download: Click [Here](https://github.com/The404Hacking/CyberScan/archive/master.zip) (CyberScan-master.zip)
 
+> Clone: git clone [https://github.com/The404Hacking/CyberScan.git](https://github.com/The404Hacking/CyberScan.git)
 
+## The404Hacking | Digital Security ReSearch Group
+[The404Hacking](https://T.me/The404Hacking)
 
-[10.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[20.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[30.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+## Follow us !
+[The404Hacking](https://T.me/The404Hacking) - [The404Cracking](https://T.me/The404Cracking)
 
+[Instagram](https://instagram.com/The404Hacking) - [GitHub](https://github.com/The404Hacking)
 
+[YouTube](http://yon.ir/youtube404) - [Aparat](http://www.aparat.com/The404Hacking)
 
-
-
-
-[10]: https://twitter.com/007Hamoud
-[20]: https://www.facebook.com/hammouda.benali
-[30]: https://www.github.com/medbenali
-
-
-
-#### BEN ALI Mohamed 
-[![alt text][10.1]][10]
-[![alt text][20.1]][20]
-[![alt text][30.1]][30]
-##### Email : mohamed.benali@esprit.tn
-
-
-
-
-
-
-
-
-
-
-
+[Weblog](http://the404hacking.blogsky.com) - [Email](mailto:The404Hacking.Team@Gmail.Com)
